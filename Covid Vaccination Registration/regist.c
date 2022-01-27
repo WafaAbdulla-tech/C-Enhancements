@@ -33,7 +33,7 @@ int new_register(long aadhar) {
 		return 3;
 	}
 	if (i < 1000 && pd[i].adhar == 0) {
-		printf("New Register\n, enter your age\n");
+		printf("New Register\n,enter your age\n");
 		scanf("%d", &pd[i].age);
 		printf("enter your phone number\n");
 		scanf("%ld", &pd[i].phonenumber);
