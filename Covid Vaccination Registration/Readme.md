@@ -1,5 +1,8 @@
   Covid Registration Portal:
   
+  Topics covered:
+  Structures, macros, loops, and storage classes.
+  
   This portal developed only for testing purpose.Portal allows to register maximum 1000 people.
   Conditions:
   
